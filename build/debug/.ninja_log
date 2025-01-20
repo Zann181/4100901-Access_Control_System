@@ -1,0 +1,13 @@
+# ninja log v5
+28	200	7587550569078467	CMakeFiles/4100901-Access_Control_System.dir/Startup/startup_stm32l476rgtx.s.obj	43ce113b85cdd9e7
+24	274	7587550569948751	CMakeFiles/4100901-Access_Control_System.dir/Src/sysmem.c.obj	8302303bb131bd
+20	667	7587550573806984	CMakeFiles/4100901-Access_Control_System.dir/Src/syscall.c.obj	7b511e3f84e90cbb
+20	160	7587555625120633	CMakeFiles/4100901-Access_Control_System.dir/Src/systick.c.obj	a38dff1e42fbdd6e
+3	162	7587555625130648	CMakeFiles/4100901-Access_Control_System.dir/Src/main.c.obj	e6d96bc8e55eeb8c
+8	130	7587556355909858	CMakeFiles/4100901-Access_Control_System.dir/Src/uart.c.obj	f0450cb2d575028
+4	133	7587556355940005	CMakeFiles/4100901-Access_Control_System.dir/Src/gpio.c.obj	f5324c4521449650
+133	1012	7587556359948541	4100901-Access_Control_System.elf	d146beae17950a60
+4	119	7587566603391414	CMakeFiles/4100901-Access_Control_System.dir/Src/main.c.obj	e6d96bc8e55eeb8c
+13	124	7587566603391414	CMakeFiles/4100901-Access_Control_System.dir/Src/uart.c.obj	f0450cb2d575028
+7	132	7587566603485010	CMakeFiles/4100901-Access_Control_System.dir/Src/gpio.c.obj	f5324c4521449650
+132	287	7587566604324195	4100901-Access_Control_System.elf	d146beae17950a60
